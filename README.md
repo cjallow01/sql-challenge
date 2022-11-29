@@ -77,6 +77,10 @@ As you examine the data, you begin to suspect that the dataset is fake. Maybe yo
 
 3. Create a bar chart of average salary by title.
 
+===========
+![ERD Screenshot ](https://user-images.githubusercontent.com/114367097/204435304-eec42e4c-18ec-4bfb-8170-b33e1726dc3b.png)
+
+
 
 ## Submission
 
